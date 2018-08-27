@@ -66,11 +66,12 @@ y posteriormente se lo intercambiaron con el otro equipo. Los crucigramas desarr
 
 **Crucigrama 1**
 
-![]( assets/images/continua/cruci1.jpg)
-![]( assets/images/continua/preguntas1.jpg)
+![](/assets/images/continua/cruci1.jpg)
+![](/assets/images/continua/preguntas1.jpg)
 
 **Crucigrama 2**
-![]( assets/images/continua/cruci2.jpg)
-![]( assets/images/continua/preguntas2.jpg)
+
+![](assets/images/continua/cruci2.jpg)
+![](assets/images/continua/preguntas2.jpg)
 
 Los dos equipos hicieron muy buen trabajo (todo se realizó en menos de una hora que dura el curso los viernes). ¡Felicidades!
