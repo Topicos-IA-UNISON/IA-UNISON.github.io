@@ -63,7 +63,7 @@ El procedimiento a seguir para cargar, modificar y entregar una tarea el siguien
 
 ## Listado de tareas a realizar (se irán agregando a lo largo del semestre)
 
-1. [Agentes inteligentes](https://github.com/IA-UNISON/tarea01-Agentes-Inteligentes). *Fecha de entrega: 31 de agosto de 2018*.
+1. [Agentes inteligentes](https://github.com/IA-UNISON/tarea01-Agentes-Inteligentes). *Fecha de entrega: 3 de septiebre de 2018*.
 
 <!---
 2. [Búsquedas locales](https://github.com/IA-UNISON/tarea02-Temple-Simulado).  *Fecha de entrega: 18 de febrero de 2018*.
