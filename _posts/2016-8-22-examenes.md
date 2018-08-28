@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Exámenes de conocimientos
-description: Ejemplos de exámenes de conocimientos
+title: Arendizaje por refuerzo
+description: Aprendizaje por refuerzo: de los métodos tabulares al aperendizaje profundo
 image: assets/images/chica2.jpg
 ---
 
