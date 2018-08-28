@@ -1,20 +1,46 @@
 ---
 layout: home
 title: Home
-landing-title: 'Inteligencia Artificial, <br>material del curso'
+landing-title: 'Tópicos avanzados de IA, <br>material del curso'
 description: null
 image: null
 author: null
 ---
 
-*María de los Remedios Alicia Rodriga Varo y Uranga (de [wikipedia](https://es.wikipedia.org/wiki/Remedios_Varo) )* (Anglès, Gerona, España, 16 de diciembre de 1908 – Ciudad de México, 8 de octubre de 1963), conocida como Remedios Varo, fue una pintora surrealista, escritora y artista gráfica española exiliada política en México primero y más tarde naturalizada mexicana. Fue una de las primeras mujeres que estudiaron en la Real Academia de Bellas Artes de San Fernando de Madrid. En 1932 se estableció en Barcelona donde trabajó como diseñadora publicitaria y se sumó al grupo surrealista catalán Logicofobista. En 1937 viajó a París junto al poeta surrealista francés Benjamin Péret y en 1941 con la llegada de los nazis a la capital francesa, se exilió a México. Nunca regresó a España. La obra de Varo evoca un mundo surgido de su imaginación donde se mezcla lo científico, lo místico, lo esotérico y lo mágico.
+Hola, soy [Julio Waissman Vilanova](http://mat.uson.mx/~juliowaissman/) y espero que este curso sea muy provechoso 
+para todos nosotros, que aprendamos muchas cosas nuevas al tiempo que vamos desarrollando proyectos.
 
-Su obra completa está teñida de una atmósfera de misticismo, plasmado en las figuras representativas del mundo secular moderno. Su pintura está puntualizada por un marcado interés por la iconografía científica, por ello años después las obras de la pintora han sido retomadas cada vez con más frecuencia en la literatura de divulgación.
+Este curso forma parte del eje de integración de la curricula de la [Licenciatura en Ciencias de la Computación](http://cc.mat.uson.mx) 
+de la [Universidad de Sonora](http://www.uson.mx). Los datos del curso son:
 
-Remedios Varo es de las primeras mujeres artistas en introducir y popularizar su trabajo en México, gracias a sus relaciones personales con otras artistas que radicaban allí, como la pintora británica Leonora Carrington, con quien conservó una buena amistad, y otros miembros de la élite artística e intelectual mexicana de mediados del siglo XX.
+| Profesor   | Julio Waissman Vilanova                                              |
+| Horarios   | Martes de 16:0 a 179:00                                              |
+| Lugar      | Aula 201 y ocasionalmente en la sala de seminarios del edificio 3K-4 |
 
-En el año 2000, Walter Gruen, su viudo, donó la colección de obras de Remedios Varo al Museo de Arte Moderno de México. La mayoría de estas obras fueron legalmente compradas a coleccionistas privados que a su vez las habían adquirido legalmente en galerías. Fueron declaradas monumento artístico mexicano el 26 de diciembre de 2001. 
+Este curso se basa en una estrategia didáctica de aprendizaje orientada a proyectos, inclusiva y democratica.
 
-Por medio de un movimiento judicial, avalado por las juezas María Margarita Gallegos López y Rebeca Pujol Rosas, en ese año la española Beatriz María Varo Jiménez, sobrina de Remedios y también pintora, fue declarada por el Juzgado Décimo Tercero de lo Familiar en el Distrito Federal de México como única y universal albacea de la sucesión de bienes de su tía Remedios Varo. En marzo de 2005 el Instituto Nacional de Bellas Artes de México apeló el dictamen, el cual se suspendió temporalmente en lo que las instancias judiciales competentes revisaban el caso. Finalmente, el 11 de enero de 2008, la titular del juzgado décimo tercero de lo familiar, María Margarita Gallegos López, emitió una sentencia donde señaló que la Federación, entendida como la nación mexicana, es la única y legítima propietaria de las obras de Remedios Varo.
+Como curso democratico, se decidió entre todos establecer los temas a desarrollar durante el curso -y la forma en que vamos a evaluarnos-, a partir de un consenso entre los participantes (estudiantes y profesor).
 
-Cabe señalar que, en vida, la pintora vendió o regaló la mayoría de sus obras, aduciendo que lo que más le importaba era el proceso creativo, no las obras en sí. Algunas de sus obras las puedes conusltar en [esta página](https://www.wikiart.org/en/remedios-varo).
+Los temas que vamos a desarrollar durante el curso son:
+
+1. **Programación dinámica: una prespectiva algorítmica**  
+2. **Aprendizaje por refuerzo: de los métodos tabulares a los metodos de aprendizaje profudo**   
+3. **¿Las máquinas pueden aprender? Introducción a la teoría estadística del aprendizaje**
+
+Igualmente, se tomo la decisión en clase de utilizar con lenguaje de desarrollo durante el curso al lenguaje de programación ciantífica [**Julia**](https://julialang.org). La desición se tomo por los siguientes motivos:
+
+1. Ninguno de los participantes sabemos programar en*Julia* y es un buen motivo para meter un lenguaje nuevo a nuestra cajita de herramientas.
+2. Acaba de liberarse la versión 1.0 de *Julia*
+3. Es uno de los trés lenguajes de programación con mayor crecimiento en el dominio de programación científica y ciencia de datos.
+4. Es el que nos falta a la mayoría para completar *jupyter*
+5. El profesor se siente curiosamente identificado con el lenguaje (y por el puerto de Guaymas).
+
+En esta página se encuentra una sección general con las reglas que pusimos entre todos para el curso, una sección para *Julia* y una sección por cada uno de los temas que vamos a desarrollar. En las secciones vamos a tener:
+
+- Ligas a los materiales del curso
+- Ligas al libro de texto que vamos a utilizar en cada tema
+- Ligas a material adicional
+- Ligas a las páginas de *github* o *gitlab* con los ejercicios que realizan cada uno de los estudiantes
+- Ligas a los proyectos de cada uno de los temas
+
+Espero que este curso sea tán interesante para ustedes como lo es para mí y que tengamos muchas evidencias de las competencias adquiridas a lo largo del semestre.
