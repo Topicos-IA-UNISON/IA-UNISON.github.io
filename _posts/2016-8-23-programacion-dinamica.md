@@ -2,7 +2,7 @@
 layout: post
 title: Programación dinamica
 description: Programación dinámica: Un enfoque algorítmico
-image: assets/images/prog-dinamica.jpg
+image: /assets/images/prog-dinamica.jpg
 ---
 
 
