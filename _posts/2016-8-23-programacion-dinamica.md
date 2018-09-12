@@ -2,7 +2,7 @@
 layout: post
 title: Programación dinamica
 description: Programación dinámica, un enfoque algorítmico
-image: /assets/images/prog-dinamica.jpg
+image: assets/images/prog-dinamica.jpg
 ---
 
 
@@ -25,5 +25,5 @@ El capítulo 2 presenta las ideas de los mñetodos por descuento tal como estudi
 
 ## Ejercicios para desarrollar
 
-1. [Ejercicios sobre MDPs del curso de Sutton](https://drive.google.com/drive/folders/0B-WvrETGtkescG5sTDk2XzZkN2M)
-2. [Ejerccios sobre DP y MC del curso de Sutton](https://drive.google.com/drive/folders/0B-WvrETGtkescG5sTDk2XzZkN2M)
+1. [Problemas sobre MDPs del curso de Sutton](https://drive.google.com/drive/folders/0B-WvrETGtkescG5sTDk2XzZkN2M)
+2. [Problemas sobre DP y MC del curso de Sutton](https://drive.google.com/drive/folders/0B-WvrETGtkescG5sTDk2XzZkN2M)
