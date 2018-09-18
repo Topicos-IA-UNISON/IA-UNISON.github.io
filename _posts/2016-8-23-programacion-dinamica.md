@@ -93,6 +93,9 @@ Para resolver este problema lo vamos a hacer en varios pasos:
 
 2. Desarrollar y explicar un modelo para establecer MDPs en espacios discretos usando *Julia*
    - La [Librería POMDP](https://github.com/JuliaPOMDP/POMDPs.jl) que es la librerá de base para MDPs y POMDPs.
+   - El script para [definir MDP
+     discretos](https://github.com/JuliaReinforcementLearning/ReinforcementLearningEnvironmentDiscrete.jl/blob/master/src/mdp.jl)
+     en la librerá de aprendizaje por refuerzo de Julia.
    - Un [proyecto](https://github.com/sawcordwell/MDPs.jl) con ideas
      de como desarrollar el modelo de MDP en *Julia*.
    - Otro [proyecto en Github](https://github.com/cpritcha/MDP) no tan interesante pero más simple de seguir.
