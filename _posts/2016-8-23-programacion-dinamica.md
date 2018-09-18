@@ -29,6 +29,9 @@ El capítulo 2 presenta las ideas de los mñetodos por descuento tal
 como estudian el tema en Matematicas. Un punto de vista complementario
 para entender la notación usual.
 
+## Inforación adicional
+
+1. [Demostración de optimalidad del método de iteración de políticas](http://ee266.stanford.edu/lectures/dpproof.pdf)
 
 
 ## Ejercicios para desarrollar
