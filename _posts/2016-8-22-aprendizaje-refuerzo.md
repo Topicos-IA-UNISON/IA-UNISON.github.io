@@ -23,5 +23,5 @@ El capítulo 6 y el capítulo 9 son esenciales para los conceptos básicos de RL
 
 2. [Algoritmos basados engradiente de política](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
 
-3. [Presentación sobre *Alpha Zero*](assets/docs/alphazero.pdf)
+3. [Presentación sobre *Alpha Zero*](/assets/docs/alphazero.pdf)
 
