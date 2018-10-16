@@ -56,11 +56,15 @@ valor y/o política, y la representación del problema particular).
 
 El juego simplificado es el siguiente:
 
-1. Solamente es un jugador y el *Dealer*, y en cada juagada se apuesta una cantidad fija de dinero (se requiere una política por jugada y los juegos son independientes)
+1. Solamente es un jugador y el *Dealer*, y en cada juagada se apuesta una
+   cantidad fija de dinero (se requiere una política por jugada y los juegos son
+   independientes)
 
-2. Se asume un mazo infinito (todas las cartas tienen la misma probabilidad de salir)
+2. Se asume un mazo infinito (todas las cartas tienen la misma probabilidad de
+   salir)
 
-3. El jugador juega primero, y solo tiene dos jugadas posibles: `parar` y `pedir carta`.
+3. El jugador juega primero, y solo tiene dos jugadas posibles: `parar` y `pedir
+   carta`.
 
 4. El jugador puede pedir cartas hasta que:
    + Llegue a 21 puntos (gana automáticamente)
@@ -68,16 +72,15 @@ El juego simplificado es el siguiente:
    + Tenga 4 cartas o más (gana automáticamente)
    + Dedica `parar`
 
-5. El *Dealer* empieza con una sola carta y una vez que el jugador
-   decide `parar`, y no haya perdido o ganado automáticamente.
+5. El *Dealer* empieza con una sola carta y una vez que el jugador decide
+   `parar`, y no haya perdido o ganado automáticamente.
 
-6. El *Dealer* tiene que `pedir_carta` *siempre* que tenga menos de 17
-   puntos.
+6. El *Dealer* tiene que `pedir_carta` *siempre* que tenga menos de 17 puntos.
 
 7. El *Dealer* tiene que `parar` si tiene 17 puntos o más.
 
-8. Si el *Dealer* tiene 4 cartas, o un número mayor que el jugador (y
-   menos que 21) gana. De otra forma, gana el jugador.
+8. Si el *Dealer* tiene 4 cartas, o un número mayor que el jugador (y menos que
+   21) gana. De otra forma, gana el jugador.
 
 
 Para resolver este problema lo vamos a hacer en varios pasos:
@@ -110,3 +113,25 @@ Para resolver este problema lo vamos a hacer en varios pasos:
 
 
 Hacer todo esto, bien explicado en un blog, o en una libreta de *jupyter* o en la combinación de ambos.
+
+
+## Ejercicios desarrollados por estudiante para su evaluación
+
+| Estudiante | Ejercicios                                                                                                          | Proyecto 21                                                                                                        |
+| ------     | ------                                                                                                              | ------                                                                                                             |
+| Belen      | https://github.com/chasil7/topicosIA/blob/master/MDP/MDP_ejercicios.pdf                                             | https://github.com/chasil7/topicosIA/blob/master/MDP/MDP_Black_Jack.ipynb                                          |
+| Adrián     | https://github.com/adrianEVI/Topicos-IA/blob/master/MDP/MPD.pdf                                                     | https://github.com/adrianEVI/Topicos-IA/blob/master/MDP/MDP.ipynb                                                  |
+| Fernando   | https://github.com/fsr313/TADIA/blob/master/MDP/ejercicios.md                                                       | https://github.com/fsr313/TADIA/blob/master/MDP/iterar_valores.ipynb                                               |
+| Ivan       | https://github.com/rexemin/Topicos-IA-UNISON/blob/master/ProgramacionDinamica/Ejercicios-ProgramacionDinamica.pdf   | https://github.com/rexemin/Topicos-IA-UNISON/blob/master/ProgramacionDinamica/21                                   |
+| Ricardo    | https://github.com/RicardoHE97/TopicosIA-Unison/blob/master/ProgramacionDinamica/EjerciciosProgramacionDinamica.pdf | https://github.com/RicardoHE97/TopicosIA-Unison/blob/master/ProgramacionDinamica/MDP_BlackJack/MDP_BlackJack.ipynb |
+| Giovanni   | No encontré                                                                                                         | No encontré                                                                                                        |
+| Jorge      | No encontré                                                                                                         | No encontré                                                                                                        |
+
+## Dinámica de evaluación
+
+Para esta unidad vamos a realizar una evaluación democrática en varios pasos. En
+un primer paso, vamos a organizar a todos los trabajos de los compañeros en
+orden, donde el 1 es el mejor trabajo y el 7 el menos bueno. Junto a la
+evaluación, vamos a incluir una opción en la que se considera si el compañero
+aprobó no no la evaluación. Sobre los aprobados, haremos una dinámica en clase
+para asignar las calificaciones.
