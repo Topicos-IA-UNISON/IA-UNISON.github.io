@@ -14,4 +14,3 @@ esta segunda edición que publicará el MIT Press en noviembre de 2018). Publica
 acuerdo de *open access*, por lo que el libro está disponible en forma gratuita por los autores.
 
 El capítulo 6 y el capítulo 9 son esenciales para los conceptos básicos de RL.
-

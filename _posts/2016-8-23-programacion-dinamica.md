@@ -117,15 +117,15 @@ Hacer todo esto, bien explicado en un blog, o en una libreta de *jupyter* o en l
 
 ## Ejercicios desarrollados por estudiante para su evaluación
 
-| Estudiante | Ejercicios                                                                                                          | Proyecto 21                                                                                                        |
-| ------     | ------                                                                                                              | ------                                                                                                             |
-| Belen      | https://github.com/chasil7/topicosIA/blob/master/MDP/MDP_ejercicios.pdf                                             | https://github.com/chasil7/topicosIA/blob/master/MDP/MDP_Black_Jack.ipynb                                          |
-| Adrián     | https://github.com/adrianEVI/Topicos-IA/blob/master/MDP/MPD.pdf                                                     | https://github.com/adrianEVI/Topicos-IA/blob/master/MDP/MDP.ipynb                                                  |
-| Fernando   | https://github.com/fsr313/TADIA/blob/master/MDP/ejercicios.md                                                       | https://github.com/fsr313/TADIA/blob/master/MDP/iterar_valores.ipynb                                               |
-| Ivan       | https://github.com/rexemin/Topicos-IA-UNISON/blob/master/ProgramacionDinamica/Ejercicios-ProgramacionDinamica.pdf   | https://github.com/rexemin/Topicos-IA-UNISON/blob/master/ProgramacionDinamica/21                                   |
-| Ricardo    | https://github.com/RicardoHE97/TopicosIA-Unison/blob/master/ProgramacionDinamica/EjerciciosProgramacionDinamica.pdf | https://github.com/RicardoHE97/TopicosIA-Unison/blob/master/ProgramacionDinamica/MDP_BlackJack/MDP_BlackJack.ipynb |
-| Giovanni   | No encontré                                                                                                         | No encontré                                                                                                        |
-| Jorge      | No encontré                                                                                                         | No encontré                                                                                                        |
+| Estudiante | EjerciciosLibro de Sutton                                                                                                         | Juego de Black Jack                                                                                                            |
+| ------     | ------                                                                                                                            | ------                                                                                                                         |
+| Belen      | [Ejercicios](https://github.com/chasil7/topicosIA/blob/master/MDP/MDP_ejercicios.pdf)                                             | [Proyecto](https://github.com/chasil7/topicosIA/blob/master/MDP/MDP_Black_Jack.ipynb)                                          |
+| Adrián     | [Ejercicios](https://github.com/adrianEVI/Topicos-IA/blob/master/MDP/MPD.pdf)                                                     | [Proyecto](https://github.com/adrianEVI/Topicos-IA/blob/master/MDP/MDP.ipynb)                                                  |
+| Fernando   | [Ejercicios](https://github.com/fsr313/TADIA/blob/master/MDP/ejercicios.md)                                                       | [Proyecto](https://github.com/fsr313/TADIA/blob/master/MDP/iterar_valores.ipynb)                                               |
+| Ivan       | [Ejercicios](https://github.com/rexemin/Topicos-IA-UNISON/blob/master/ProgramacionDinamica/Ejercicios-ProgramacionDinamica.pdf)   | [Proyecto](https://github.com/rexemin/Topicos-IA-UNISON/blob/master/ProgramacionDinamica/21)                                   |
+| Ricardo    | [Ejercicios](https://github.com/RicardoHE97/TopicosIA-Unison/blob/master/ProgramacionDinamica/EjerciciosProgramacionDinamica.pdf) | [Proyecto](https://github.com/RicardoHE97/TopicosIA-Unison/blob/master/ProgramacionDinamica/MDP_BlackJack/MDP_BlackJack.ipynb) |
+| Giovanni   | No encontré                                                                                                                       | No encontré                                                                                                                    |
+| Jorge      | No encontré                                                                                                                       | No encontré                                                                                                                    |
 
 ## Dinámica de evaluación
 
