@@ -42,8 +42,6 @@ para entender la notación usual.
 
 ## Miniproyecto de evaluación de competencias: Una veintiuna simplificada
 
-![](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjx-_jAwsPdAhVMb60KHafpBE8QjRx6BAgBEAU&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ABlackjack21.jpg&psig=AOvVaw1_DgBYuzWYvttzUkmO7U_c&ust=1537324577735747)
-
 
 Vamos a representar una versión simplificada del juego de la veintiuna
 (o *blackjack*) como un MDP y a partir de este vamos a encontrar una
@@ -125,7 +123,6 @@ Hacer todo esto, bien explicado en un blog, o en una libreta de *jupyter* o en l
 | Ivan       | [Ejercicios](https://github.com/rexemin/Topicos-IA-UNISON/blob/master/ProgramacionDinamica/Ejercicios-ProgramacionDinamica.pdf)   | [Proyecto](https://github.com/rexemin/Topicos-IA-UNISON/blob/master/ProgramacionDinamica/21)                                   |
 | Ricardo    | [Ejercicios](https://github.com/RicardoHE97/TopicosIA-Unison/blob/master/ProgramacionDinamica/EjerciciosProgramacionDinamica.pdf) | [Proyecto](https://github.com/RicardoHE97/TopicosIA-Unison/blob/master/ProgramacionDinamica/MDP_BlackJack/MDP_BlackJack.ipynb) |
 | Giovanni   | No encontré                                                                                                                       | No encontré                                                                                                                    |
-| Jorge      | No encontré                                                                                                                       | No encontré                                                                                                                    |
 
 ## Dinámica de evaluación
 
