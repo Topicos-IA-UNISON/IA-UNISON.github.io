@@ -18,7 +18,7 @@ Para evaluar este tópico se propone el desarrollo de 4 ejercicios:
 ## Ejercicios desarrollados por estudiante para su evaluación
 
 | Estudiante | Ejercicios  |
-| ------     | ----------- |                                                                                                                         |
+| ------     | ----------- |
 | Belen      | [Ejercicios](https://github.com/chasil7/topicosIA/tree/master/Teoria_aprendizaje) |
 | Adrián     | pendiente  |
 | Fernando   | [Ejercicios](https://github.com/fsr313/TADIA/tree/master/SL) |
