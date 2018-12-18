@@ -45,7 +45,7 @@ Para evaluar las competencias adquiridas sobre aprendizaje por refuerzo, hemos d
 | Estudiante | Ejercicios Libro de Sutton | Veintiuna | *open IA* |
 | ------     | -------------------------- | --------- | --------- |                                                                                                                         |
 | Belen      | [Ejercicios](https://github.com/chasil7/topicosIA/tree/master/Aprendizaje_Refuerzo) | [veintiuna](https://github.com/chasil7/topicosIA/tree/master/Aprendizaje_Refuerzo/Black_Jack)| [Acrobot](https://github.com/chasil7/topicosIA/tree/master/Aprendizaje_Refuerzo/Acrobot) |
-| Adrián     | pendiente  | pendiente | pendiente |
+| Adrián     | [Ejercicios](https://github.com/adrianEVI/Topicos-IA/tree/master/Aprendizaje)  | pendiente | pendiente |
 | Fernando   | [Ejercicios](https://github.com/fsr313/TADIA/tree/master/RL)| [veintiuna](https://github.com/fsr313/TADIA/blob/master/RL/Blackjack.ipynb)| [Acrobot](https://github.com/fsr313/TADIA/blob/master/RL/Gym%20Acrobot%20JL.ipynb) |
 | Ivan       | [Ejercicios](https://rexemin.github.io/Topicos-IA-UNISON/2018/11/30/ejercicios-sutton-barto.html)   | [Veintiuna](https://rexemin.github.io/Topicos-IA-UNISON/2018/12/03/revancha-21.html) | [Acrobot](https://rexemin.github.io/Topicos-IA-UNISON/2018/12/09/acrobot.html) |
 | Ricardo    | [Ejercicios](https://github.com/RicardoHE97/TopicosIA-Unison/tree/master/reinforcement-learning-an-introduction) | [veintiuna](https://github.com/RicardoHE97/TopicosIA-Unison/blob/master/Q_learning_BlackJack/Blackjack%20-%20Q-Learning.ipynb) | [Acrobot](https://github.com/RicardoHE97/TopicosIA-Unison/tree/master/Acrobot-v1) |
