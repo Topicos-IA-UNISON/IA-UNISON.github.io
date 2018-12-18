@@ -20,7 +20,7 @@ Para evaluar este tópico se propone el desarrollo de 4 ejercicios:
 | Estudiante | Ejercicios  |
 | ------     | ----------- |
 | Belen      | [Ejercicios](https://github.com/chasil7/topicosIA/tree/master/Teoria_aprendizaje) |
-| Adrián     | pendiente  |
+| Adrián     | [Ejercicios](https://github.com/adrianEVI/Topicos-IA/tree/master/Teoria)  |
 | Fernando   | [Ejercicios](https://github.com/fsr313/TADIA/tree/master/SL) |
 | Ivan       | [Ejercicios](https://rexemin.github.io/Topicos-IA-UNISON/2018/12/15/teoriaaprendizaje.html) |
 | Ricardo    | [Ejercicios](https://github.com/RicardoHE97/TopicosIA-Unison/blob/master/AprendizajeSupervisado.ipynb) |
